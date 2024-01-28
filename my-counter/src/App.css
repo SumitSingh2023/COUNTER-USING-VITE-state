@@ -1,0 +1,29 @@
+.counter-card{
+  width: 350px;
+  height: 350px;
+  border: 2px solid red;
+  text-align: center;
+  margin-left: 200px;
+  background-color: black;
+}
+
+button{
+  padding: 20px;
+  border: 3px solid cyan;
+  margin: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+
+}
+
+button:hover{
+  background-color: cadetblue;
+  font-size: 15px;
+  border: 3px solid rgb(249, 7, 241);
+}
+
+h2{
+  font-size: 55px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aqua;
+}
